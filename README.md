@@ -40,18 +40,18 @@ This repository documents the system analysis and design for a Local Cuisine Ord
 
 ## Repository Contents
 - Project Management & Scheduling
-  - [1. Gantt Chart](docs/1.Gantt.pdf)
-  - [2. CPM Schedule](docs/2.CPM.pdf)
+  - [1. Gantt Chart](docs/diagram/planning/1.Gantt.pdf)
+  - [2. CPM Schedule](docs/diagram/planning/2.CPM.pdf)
 - System Context & Processes
-  - [3. Context Diagram](docs/3.CONTEXT%20DIAGRAM.pdf)
-  - [4. DFD Level 0](docs/4.DFD%20l0.pdf)
-  - [5. DFD Level 1](docs/5.DFD%20l1.pdf)
-  - [8. Flowchart](docs/8.Flowchart.pdf)
+  - [3. Context Diagram](docs/diagram/analysis/3.CONTEXT%20DIAGRAM.pdf)
+  - [4. DFD Level 0](docs/diagram/analysis/4.DFD%20l0.pdf)
+  - [5. DFD Level 1](docs/diagram/analysis/5.DFD%20l1.pdf)
+  - [8. Flowchart](docs/diagram/behavior/8.Flowchart.pdf)
 - Data & Behavior Modeling
-  - [6. ER Diagram](docs/6.ERD.pdf)
-  - [7. State Transition Diagram (STD)](docs/7.STD.pdf)
+  - [6. ER Diagram](docs/diagram/data-model/6.ERD.pdf)
+  - [7. State Transition Diagram (STD)](docs/diagram/behavior/7.STD.pdf)
 - Prototype
-  - [Prototype (PDF)](docs/prototype.pdf)
+  - [Prototype (PDF)](docs/prototype/prototype.pdf)
   - [Prototype Walkthrough (Video)](media/pt.mp4)
 
 ## How to Use These Materials
