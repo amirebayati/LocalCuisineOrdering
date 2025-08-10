@@ -78,7 +78,10 @@ Contributions to improve the design artifacts or begin implementation are welcom
 - Keep artifact naming consistent and place files at the repository root unless there’s an agreed structure
 
 ## License
-No license file is currently provided. If you plan to use these materials beyond viewing/cloning or want to contribute under a specific license, please open an issue to discuss licensing.
+- Code is licensed under the MIT License. See [LICENSE](./LICENSE).
+- Documents and media (PDFs, images, video) are licensed under Creative Commons Attribution 4.0 International (CC BY 4.0). See [LICENSE-docs](./LICENSE-docs).
+
+By contributing to this repository, you agree that your contributions will be licensed under the same terms.
 
 ## Contact
 - Maintainer: [@amirebayati](https://github.com/amirebayati)
