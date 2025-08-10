@@ -40,28 +40,27 @@ This repository documents the system analysis and design for a Local Cuisine Ord
 
 ## Repository Contents
 - Project Management & Scheduling
-  - [1. Gantt Chart](1.Gantt.pdf)
-  - [2. CPM Schedule](2.CPM.pdf)
+  - [1. Gantt Chart](docs/1.Gantt.pdf)
+  - [2. CPM Schedule](docs/2.CPM.pdf)
 - System Context & Processes
-  - [3. Context Diagram](3.CONTEXT%20DIAGRAM.pdf)
-  - [4. DFD Level 0](4.DFD%20l0.pdf)
-  - [5. DFD Level 1](5.DFD%20l1.pdf)
-  - [8. Flowchart](8.Flowchart.pdf)
+  - [3. Context Diagram](docs/3.CONTEXT%20DIAGRAM.pdf)
+  - [4. DFD Level 0](docs/4.DFD%20l0.pdf)
+  - [5. DFD Level 1](docs/5.DFD%20l1.pdf)
+  - [8. Flowchart](docs/8.Flowchart.pdf)
 - Data & Behavior Modeling
-  - [6. ER Diagram](6.ERD.pdf)
-  - [7. State Transition Diagram (STD)](7.STD.pdf)
+  - [6. ER Diagram](docs/6.ERD.pdf)
+  - [7. State Transition Diagram (STD)](docs/7.STD.pdf)
 - Prototype
-  - [Prototype (PDF)](prototype.pdf)
-  - [Prototype Walkthrough (Video)](pt.mp4)
+  - [Prototype (PDF)](docs/prototype.pdf)
+  - [Prototype Walkthrough (Video)](media/pt.mp4)
 
 ## How to Use These Materials
-- Start with the [Context Diagram](3.CONTEXT%20DIAGRAM.pdf) to understand the system boundaries and external actors.
-- Review high-level flows in [DFD Level 0](4.DFD%20l0.pdf) and drill down into [DFD Level 1](5.DFD%20l1.pdf) for details.
-- Consult the [ER Diagram](6.ERD.pdf) for the data model and relationships.
-- Use the [Flowchart](8.Flowchart.pdf) and [STD](7.STD.pdf) to validate behavior across typical and edge-case scenarios.
-- Explore the [Prototype (PDF)](prototype.pdf) and watch the [Video Walkthrough](pt.mp4) to visualize user interactions.
-- Reference the [Gantt](1.Gantt.pdf) and [CPM](2.CPM.pdf) files for project planning and critical path insights.
-
+- Start with the [Context Diagram](docs/3.CONTEXT%20DIAGRAM.pdf) to understand the system boundaries and external actors.
+- Review high-level flows in [DFD Level 0](docs/4.DFD%20l0.pdf) and drill down into [DFD Level 1](docs/5.DFD%20l1.pdf) for details.
+- Consult the [ER Diagram](docs/6.ERD.pdf) for the data model and relationships.
+- Use the [Flowchart](docs/8.Flowchart.pdf) and [STD](docs/7.STD.pdf) to validate behavior across typical and edge-case scenarios.
+- Explore the [Prototype (PDF)](docs/prototype.pdf) and watch the [Video Walkthrough](media/pt.mp4) to visualize user interactions.
+- Reference the [Gantt](docs/1.Gantt.pdf) and [CPM](docs/2.CPM.pdf) files for project planning and critical path insights.
 ## Roadmap
 Planned next steps for turning the design into a working product might include:
 - Choosing an implementation stack (e.g., web/mobile frontend, backend API, database)
