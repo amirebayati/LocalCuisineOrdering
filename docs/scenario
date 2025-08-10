@@ -1,0 +1,22 @@
+Introduction: 
+Luffy (LUFFY) is a system that connects local/home food producers with interested customers.
+
+Goals:
+Customer: Provide a high‑quality service for experiencing and discovering local dishes—diverse and little‑known—from all over the country, without spatial or temporal limitations; move beyond a purely traditional setting to experience local foods.
+Producer: Create a safe and cost‑effective space to increase the income of home-based and local producers.
+
+Description:
+The user enters the food‑ordering website and, through the system’s user interface, gains access to chefs and their menus.
+Using the system’s search and filter tools, the user looks for the desired dish, selects it, and is taken to the dish page.
+On the dish page, the user enters order details such as quantity, dish specifics, delivery address, preferred delivery time, and any other requests.
+The user then enters personal information to register and verify their identity.
+The user reviews the order and, if needed, applies final changes.
+The user chooses a payment method and, after payment is confirmed, finalizes the order.
+The system sends the order information to the chef to prepare the food.
+Based on the order details, the chef begins cooking.
+Once ready, the food is packaged hygienically by the chef or the kitchen team.
+During packaging, information about how the packaging is done and how food temperature will be maintained is recorded/communicated for delivery.
+The system assigns a courier to collect and deliver the order.
+The courier picks up the order from the chef/restaurant and heads to the specified delivery address. 
+
+
