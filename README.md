@@ -55,12 +55,12 @@ This repository documents the system analysis and design for a Local Cuisine Ord
   - [Prototype Walkthrough (Video)](media/pt.mp4)
 
 ## How to Use These Materials
-- Start with the [Context Diagram](docs/3.CONTEXT%20DIAGRAM.pdf) to understand the system boundaries and external actors.
-- Review high-level flows in [DFD Level 0](docs/4.DFD%20l0.pdf) and drill down into [DFD Level 1](docs/5.DFD%20l1.pdf) for details.
-- Consult the [ER Diagram](docs/6.ERD.pdf) for the data model and relationships.
-- Use the [Flowchart](docs/8.Flowchart.pdf) and [STD](docs/7.STD.pdf) to validate behavior across typical and edge-case scenarios.
-- Explore the [Prototype (PDF)](docs/prototype.pdf) and watch the [Video Walkthrough](media/pt.mp4) to visualize user interactions.
-- Reference the [Gantt](docs/1.Gantt.pdf) and [CPM](docs/2.CPM.pdf) files for project planning and critical path insights.
+- Start with the [Context Diagram](docs/diagram/analysis/3.CONTEXT%20DIAGRAM.pdf) to understand the system boundaries and external actors.
+- Review high-level flows in [DFD Level 0](docs/diagram/analysis/4.DFD%20l0.pdf) and drill down into [DFD Level 1](docs/diagram/analysis/5.DFD%20l1.pdf) for details.
+- Consult the [ER Diagram](docs/diagram/data-model/6.ERD.pdf) for the data model and relationships.
+- Use the [Flowchart](docs/diagram/behavior/8.Flowchart.pdf) and [STD](docs/diagram/behavior/7.STD.pdf) to validate behavior across typical and edge-case scenarios.
+- Explore the [Prototype (PDF)](docs/prototype/prototype.pdf) and watch the [Video Walkthrough](media/pt.mp4) to visualize user interactions.
+- Reference the [Gantt](docs/diagram/planning/1.Gantt.pdf) and [CPM](docs/diagram/planning/2.CPM.pdf) files for project planning and critical path insights.
 ## Roadmap
 Planned next steps for turning the design into a working product might include:
 - Choosing an implementation stack (e.g., web/mobile frontend, backend API, database)
